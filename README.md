@@ -5,9 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthkhare307&label=Profile%20views&color=0e75b6&style=flat" alt="parthkhare307" /> </p>
 
+
+- 🔭 I’m currently working on **Firebase and Payment Gateways**
+
+- 🌱 I’m currently learning **Back-end development**
+
+- 🤝 I’m looking for help with **DSA**
+
+- 👨‍💻 All of my projects are available at [https://github.com/parthkhare307](https://github.com/parthkhare307)
+
 - 📫 How to reach me **parthkhare307@gmail.com**
 
-- ⚡ Fun fact **I am Funny😅**
+- ⚡ Fun fact **I like OutDoor Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
